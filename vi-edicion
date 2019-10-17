@@ -1,0 +1,622 @@
+
+<!DOCTYPE html>
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="https://institucional.us.es/innosoft/xmlrpc.php"/>
+	<title>V Edición - InnoSoft Days</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="%CODEPrograma% La quinta edición de las jornadas se celebró los días 6 y 9 de noviembre de 2017. Logo Programa Lunes 6Jueves 9   Cartel 6 de noviembre de 2"/>
+<link rel="canonical" href="https://institucional.us.es/innosoft/v-edicion/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="V Edición - InnoSoft Days" />
+<meta property="og:description" content="%CODEPrograma% La quinta edición de las jornadas se celebró los días 6 y 9 de noviembre de 2017. Logo Programa Lunes 6Jueves 9   Cartel 6 de noviembre de 2" />
+<meta property="og:url" content="https://institucional.us.es/innosoft/v-edicion/" />
+<meta property="og:site_name" content="InnoSoft Days" />
+<meta property="article:publisher" content="https://www.facebook.com/innosoftdays" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Logo-antiguo.png" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Logo-antiguo.png" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Moon-Flower-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Moon-Flower-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445-300x167.jpg" />
+<meta property="og:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal-300x167.jpg" />
+<meta property="og:image:secure_url" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal-300x167.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="%CODEPrograma% La quinta edición de las jornadas se celebró los días 6 y 9 de noviembre de 2017. Logo Programa Lunes 6Jueves 9   Cartel 6 de noviembre de 2" />
+<meta name="twitter:title" content="V Edición - InnoSoft Days" />
+<meta name="twitter:site" content="@innosoftdays" />
+<meta name="twitter:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Logo-antiguo.png" />
+<meta name="twitter:creator" content="@innosoftdays" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/institucional.us.es\/innosoft\/","name":"InnoSoft Days","potentialAction":{"@type":"SearchAction","target":"https:\/\/institucional.us.es\/innosoft\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/institucional.us.es\/innosoft\/v-edicion\/","sameAs":["https:\/\/www.facebook.com\/innosoftdays","https:\/\/www.instagram.com\/innosoftdays","https:\/\/www.youtube.com\/channel\/UCDrk0J92bLcWySdXcMu2MJQ","https:\/\/twitter.com\/innosoftdays"],"@id":"#organization","name":"US","logo":"https:\/\/institucional.us.es\/innosoft\/wp-content\/uploads\/2017\/10\/Ponente_UniversidadDeSevilla.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="InnoSoft Days &raquo; Feed" href="https://institucional.us.es/innosoft/feed/" />
+<link rel="alternate" type="application/rss+xml" title="InnoSoft Days &raquo; RSS de los comentarios" href="https://institucional.us.es/innosoft/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/institucional.us.es\/innosoft\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='front-estilos-css'  href='https://institucional.us.es/innosoft/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://institucional.us.es/innosoft/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://institucional.us.es/innosoft/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ce_responsive-css'  href='https://institucional.us.es/innosoft/wp-content/plugins/simple-embed-code/css/video-container.min.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_google_fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600&#038;ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_style-css'  href='https://institucional.us.es/innosoft/wp-content/themes/colormag/style.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-fontawesome-css'  href='https://institucional.us.es/innosoft/wp-content/themes/colormag/fontawesome/css/font-awesome.css?ver=4.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cdp_cookies_info = {"url_plugin":"https:\/\/institucional.us.es\/innosoft\/wp-content\/plugins\/asesor-cookies-para-la-ley-en-espana\/plugin.php","url_admin_ajax":"https:\/\/institucional.us.es\/innosoft\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js?ver=4.8.7'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/colormag-custom.js?ver=4.8.7'></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/html5shiv.min.js?ver=4.8.7'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://institucional.us.es/innosoft/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://institucional.us.es/innosoft/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://institucional.us.es/innosoft/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.7" />
+<link rel='shortlink' href='https://institucional.us.es/innosoft/?p=761' />
+<link rel="alternate" type="application/json+oembed" href="https://institucional.us.es/innosoft/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finstitucional.us.es%2Finnosoft%2Fv-edicion%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://institucional.us.es/innosoft/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finstitucional.us.es%2Finnosoft%2Fv-edicion%2F&#038;format=xml" />
+<meta name="twitter:widgets:link-color" content="#000000"><meta name="twitter:widgets:border-color" content="#000000"><meta name="twitter:partner" content="tfwp"><link rel="icon" href="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_2_negro-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_2_negro-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_2_negro-300x300.png" />
+<meta name="msapplication-TileImage" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_2_negro-300x300.png" />
+
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="V Edición"><meta name="twitter:description" content="%CODEPrograma% La quinta edición de las jornadas se celebró los días 6 y 9 de noviembre de 2017. Logo Programa&hellip;"><meta name="twitter:image" content="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal.jpg">
+		<style type="text/css" id="wp-custom-css">
+			/*
+Puedes añadir tu propio CSS aquí.
+
+Haz clic en el icono de ayuda de arriba para averiguar más.
+*/
+
+/* General */
+.flex-container {
+	display: -webkit-flex;		/* Chrome 21+ and Safari 6.1+ */
+	display: -webkit-box;		/* Chrome 4+ and Safari 3.1+ */
+	display: -moz-box;			/* Firefox 2+ */
+	display: -ms-flexbox;		/* IE 10+ */
+	display: flex;
+}
+
+/* Social network */
+div.sn-container {
+	margin-bottom: 20px;
+}
+div.sn-container a.social-network:hover i.fa {
+	color: grey;
+}
+div.sn-container i.fa-facebook-square {
+	color: #3b5998;
+}
+div.sn-container i.fa-instagram {
+	color: #000;
+}
+div.sn-container i.fa-twitter {
+	color: #00aced;
+}
+div.sn-container i.fa-youtube {
+	color: #cc181e;
+}
+
+/* Footer */
+div.logo-footer {
+	-webkit-flex-flow: row wrap;			/* Chrome 21+ and Safari 6.1+ */
+	-moz-flex-flow: row wrap;				/* Firefox 18+ */
+	flex-flow: row wrap;
+	-webkit-justify-content: space-around;	/* Chrome 21+ and Safari 6.1+ */
+	-moz-justify-content: space-around;		/* Firefox 18+ */
+	justify-content: space-around;
+}
+div.logo-footer div p {
+	text-align: center;
+}
+div.logo-footer div p.slogan-footer {
+	font-size: 1.25em !important;
+	font-weight: bolder;
+	font-style: italic;
+}
+div.logo-footer div p.date-footer {
+	font-size: 1.15em !important;
+}		</style>
+	</head>
+
+<body class="page-template-default page page-id-761 wp-custom-logo  wide">
+
+
+<div id="page" class="hfeed site">
+	
+	
+	<header id="masthead" class="site-header clearfix ">
+		<div id="header-text-nav-container" class="clearfix">
+
+			
+			
+			
+		<div class="inner-wrap">
+
+			<div id="header-text-nav-wrap" class="clearfix">
+				<div id="header-left-section">
+											<div id="header-logo-image">
+							<a href="https://institucional.us.es/innosoft/" class="custom-logo-link" rel="home" itemprop="url"><img width="75" height="75" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_2_negro-e1540204473260.png" class="custom-logo" alt="InnoSoft Days" itemprop="logo" /></a>						</div><!-- #header-logo-image -->
+											<div id="header-text" class="">
+													<h3 id="site-title">
+								<a href="https://institucional.us.es/innosoft/" title="InnoSoft Days" rel="home">InnoSoft Days</a>
+							</h3>
+																		<p id="site-description">50 años de la Ingeniería del Software</p>
+						<!-- #site-description -->
+					</div><!-- #header-text -->
+				</div><!-- #header-left-section -->
+				<div id="header-right-section">
+											<div id="header-right-sidebar" class="clearfix">
+							<aside id="custom_html-3" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div class="sn-container">
+	<a href="https://www.facebook.com/innosoftdays" target="_blank" class="social-network" title="Facebook">
+		<i class="fa fa-2x fa-facebook-square"></i>
+	</a>
+	&nbsp;
+	<a href="https://www.instagram.com/innosoftdays" target="_blank" class="social-network" title="Instagram">
+		<i class="fa fa-2x fa-instagram"></i>
+	</a>
+	&nbsp;
+	<a href="https://www.twitter.com/innosoftdays" target="_blank" class="social-network" title="Twitter">
+		<i class="fa fa-2x fa-twitter"></i>
+	</a>
+	&nbsp;
+	<a href="https://www.youtube.com/channel/UCDrk0J92bLcWySdXcMu2MJQ" target="_blank" class="social-network" title="YouTube">
+		<i class="fa fa-2x fa-youtube"></i>
+	</a>
+</div>
+
+<p>12, 13 y 16 de noviembre de 2018 en la ETSII (Sevilla)</p></div></aside>						</div>
+										</div><!-- #header-right-section -->
+
+			</div><!-- #header-text-nav-wrap -->
+
+		</div><!-- .inner-wrap -->
+
+		
+			
+			
+		<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+			<div class="inner-wrap clearfix">
+				
+				<p class="menu-toggle"></p>
+				<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-28"><a href="https://institucional.us.es/innosoft">Inicio</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="https://institucional.us.es/innosoft/category/noticias/">Noticias</a></li>
+<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://institucional.us.es/innosoft/programa/">Programa</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://institucional.us.es/innosoft/ponentes/">Ponentes</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://institucional.us.es/innosoft/como-llegar/">Cómo llegar</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://institucional.us.es/innosoft/contactar/">Contactar</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-30"><a href="#">Otras ediciones</a>
+<ul  class="sub-menu">
+	<li id="menu-item-764" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-761 current_page_item menu-item-764"><a href="https://institucional.us.es/innosoft/v-edicion/">V Edición</a></li>
+</ul>
+</li>
+</ul></div>
+				
+							</div>
+		</nav>
+
+		
+		</div><!-- #header-text-nav-container -->
+
+		
+	</header>
+
+		
+	<div id="main" class="clearfix">
+		<div class="inner-wrap clearfix">
+
+	
+	<div id="primary">
+		<div id="content" class="clearfix">
+			
+				
+<article id="post-761" class="post-761 page type-page status-publish hentry">
+	
+	
+	<header class="entry-header">
+               <h1 class="entry-title">
+            V Edición         </h1>
+      	</header>
+
+	<div class="entry-content clearfix">
+		<p>
+<!-- Code Embed v2.3.2 -->
+<script type="text/javascript">
+var jq = jQuery.noConflict();
+var activeTab = "first"; // By default
+var selectedTab;
+
+jq(document).ready(function(){
+	jq(".tab-day").click(function(){
+                selectedTab = jq(this).attr("id");             
+		changeTab(activeTab);
+                changeTab(selectedTab);
+		activeTab = selectedTab;
+	});
+});
+
+function changeTab(tab) {
+        jq("#"+tab).toggleClass("selected-tab");
+        jq("#schedule-"+tab).toggleClass("not-display-tab");	
+}
+</script>
+<!-- End of Code Embed output -->
+</p>
+<p>La quinta edición de las jornadas se celebró los días 6 y 9 de noviembre de 2017.</p>
+<p style="text-align: center;"><strong>Logo</strong></p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-846" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Logo-antiguo.png" alt="" width="50" height="100" /></p>
+<h2>Programa</h2>
+<div class="flex-container tab">
+<div><button id="first" class="tab-day selected-tab">Lunes 6</button><button id="second" class="tab-day">Jueves 9</button></div>
+<div><a href="https://institucional.us.es/innosoft/jornadas/V-edicion/V-edicion-cartel.jpg" target="_blank" rel="noopener"><i class="fa fa-picture-o fa-lg"></i>  Cartel</a></div>
+</div>
+<div id="schedule-first" class="schedule-container">
+<h1 class="entry-title">6 de noviembre de 2017</h1>
+<table class="schedule schedule-2" style="height: 754px;" width="946">
+<tbody>
+<tr>
+<th class="time">Hora</th>
+<th class="classroom">Aula A1.16</th>
+<th class="classroom">Laboratorio B1.32</th>
+<th class="classroom">Laboratorio B1.36</th>
+</tr>
+<tr>
+<td>08:30</p>
+<p>09:20</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Esperanza Caro</p>
+<p>Proyecto de Smart Cities del Ayuntamiento de Sevilla.</td>
+<td rowspan="2"></td>
+<td class="highlight" rowspan="2"></td>
+</tr>
+<tr>
+<td>09:30</p>
+<p>10:20</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Mª Carmen Romero</p>
+<p>Gestión de la seguridad dentro de las organizaciones. Normativa de seguridad de la Universidad de Sevilla.</td>
+</tr>
+<tr>
+<td>12:45</p>
+<p>13:15</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Cristina Suárez y Gorka Gómez (Digitálica Salud)</p>
+<p>Impresión 3D de órganos y la creación de algoritmos para dichas impresiones.</td>
+<td rowspan="2"><strong>Taller</strong></p>
+<p>Raúl Castilla</p>
+<p>Sistemas operativos de los robots: librerías, software y herramientas de ayuda para construir una aplicación robot.</td>
+<td class="highlight" rowspan="2"><strong>Taller</strong></p>
+<p>José Antonio (atSistemas)</p>
+<p>Hybreed, framework profesional de desarrollo híbrido de apps.</td>
+</tr>
+<tr>
+<td>13:40</p>
+<p>14:20</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Alejandro Hall</p>
+<p>Deep learning.</td>
+</tr>
+<tr>
+<td>15:30</p>
+<p>16:00</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Cristina Aranda (Mujeres Tech)</p>
+<p>El papel y la inclusión de la mujer en la tecnología.</td>
+<td rowspan="3"></td>
+<td class="highlight" rowspan="3"></td>
+</tr>
+<tr>
+<td>16:00</p>
+<p>16:40</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>eCapture 3D</p>
+<p>Cómo nace y se desarrolla una start-up tecnológica. También hablarán sobre su aplicación de modelado 3D.</td>
+</tr>
+<tr>
+<td>16:50</p>
+<p>17:30</td>
+<td class="highlight"><strong>Taller</strong></p>
+<p>Saray de la Cruz (atSistemas)</p>
+<p>Desarrollo Ágil de software, envuelve un enfoque para la toma de decisiones en los proyectos de software.</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="schedule-second" class="schedule-container not-display-tab">
+<h1 class="entry-title">9 de noviembre de 2017</h1>
+<table class="schedule schedule-3">
+<tbody>
+<tr>
+<th class="time">Hora</th>
+<th class="classroom">Aula A1.16</th>
+<th class="classroom">Laboratorio B1.36</th>
+<th class="classroom">Salón de Grados</th>
+<th class="classroom">Aula I1.10</th>
+</tr>
+<tr>
+<td>10:40</p>
+<p>11:20</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Jacobo Navas (Moon Flower Technologies)</p>
+<p>Realidad virtual.</td>
+<td rowspan="2"><strong>Taller</strong></p>
+<p>Sara Galisteo</p>
+<p>(How I Learned Code) Taller de Scratch para 20 niños del colegio Corpus Christi.</td>
+<td class="highlight" rowspan="2"></td>
+<td rowspan="5"></td>
+</tr>
+<tr>
+<td>11:30</p>
+<p>12:30</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Patricia Bornes Rodríguez</p>
+<p>Proyección de hologramas sobre tejido semitransparente. Concierto de Vocaloid.</td>
+</tr>
+<tr>
+<td>15:30</p>
+<p>16:10</td>
+<td class="highlight"><strong>Taller</strong></p>
+<p>David Borrego (atSistemas)</p>
+<p>Docker: herramienta para automatizar el despliegue de aplicaciones dentro de contenedores de software.</td>
+<td rowspan="2"></td>
+<td class="highlight" rowspan="2"><strong>Conferencia</strong></p>
+<p>Dr. Antonio Vallecillo</p>
+<p>La Ingeniería del Software y su profesión: &#8220;¿Somos ingenieros realmente? ¿Qué visión tiene actualmente la sociedad de nosotros? ¿Cómo nos vemos a nosotros mismos? ¿Qué competencias deberíamos tener?&#8221;.</td>
+</tr>
+<tr>
+<td>16:15</p>
+<p>16:50</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Jesús Utrera (atSistemas)</p>
+<p>Machine learning: rama de la inteligencia artificial cuyo objetivo es desarrollar técnicas que permitan a las computadoras aprender.</td>
+</tr>
+<tr>
+<td>17:00</p>
+<p>17:30</td>
+<td class="highlight" rowspan="2"><strong>Conferencia</strong></p>
+<p>Enrique Fernández Borja</p>
+<p>Computación cuántica y su impacto en la actualidad.</td>
+<td></td>
+<td class="highlight"></td>
+</tr>
+<tr>
+<td>17:30</p>
+<p>17:50</td>
+<td rowspan="3"></td>
+<td class="highlight" rowspan="3"></td>
+<td rowspan="3"><strong>Conferencia</strong></p>
+<p>Pablo Mallén (Sevilla Guifi)</p>
+<p>Organizada por Sugus. &#8220;Guifi.Net&#8221;, una red de telecomunicaciones abierta, libre y neutral.</td>
+</tr>
+<tr>
+<td>18:00</p>
+<p>18:30</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Pedro Grau</p>
+<p>Drones, lo que se puede hacer ahora mismo con ellos y tendencias futuras.</td>
+</tr>
+<tr>
+<td>18:40</p>
+<p>19:30</td>
+<td class="highlight"><strong>Conferencia</strong></p>
+<p>Jorge Coronado</p>
+<p>“OSINT. Qué sabe Internet sobre ti”.</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<h2>Vídeo promocional</h2>
+<h2><iframe src="https://www.youtube.com/embed/x7t2UOcAZtQ" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h2>
+<h2>Fotos</h2>
+<p><img class="alignnone wp-image-842" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-taller-Docker-machine-learning-atSistemas-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-843" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Vocaloid-Patricia-Bornes-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-841" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Moon-Flower-800x445-300x167.jpg" alt="" width="254" height="143" /> <img class="alignnone wp-image-840" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Jorge-Coronado-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-839" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445-300x167.jpg" alt="" width="254" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-eCapture3D-800x445.jpg 800w" sizes="(max-width: 254px) 100vw, 254px" /> <img class="alignnone wp-image-838" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445-300x167.jpg" alt="" width="255" height="142" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-drones-Pedro-Grau-800x445.jpg 800w" sizes="(max-width: 255px) 100vw, 255px" /> <img class="alignnone wp-image-837" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-computacion-cuantica-Enrique-Fernandez-Borja-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-836" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Antonio-Vallecillo-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-835" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/InnoSoft-Days-Agil-atSistemas-800x445.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /> <img class="alignnone wp-image-834" src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal-300x167.jpg" alt="" width="253" height="141" srcset="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal-300x167.jpg 300w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal-768x427.jpg 768w, https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Grupal.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" /></p>
+<p>&nbsp;</p>
+			</div>
+
+	<div class="entry-footer">
+			</div>
+
+	</article>
+
+				
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	
+<div id="secondary">
+			
+		<aside id="custom_html-33" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title"><span>Descárgate nuestra app</span></h3><div class="textwidget custom-html-widget"><p align="justify">Ahora podrás encontrar toda la información sobre el evento estés donde estés: programa, horarios, lugar y descripción de cada ponencia y redes sociales de forma rápida y sencilla.</p>
+<div id="codigoQR">
+	<a target="_blank" href="https://play.google.com/store/apps/details?id=esinnosoft.us.httpsinstitucional.innosoft"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/11/QR_Code_InnosoftDays.png"/></a>
+</div></div></aside><aside id="custom_html-12" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title"><span>Facebook</span></h3><div class="textwidget custom-html-widget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.10';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/InnoSoftDays" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/InnoSoftDays" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/InnoSoftDays">InnoSoft Days</a></blockquote></div></div></aside><aside id="twitter-follow-3" class="widget widget_twitter-follow clearfix"><h3 class="widget-title"><span>Twitter</span></h3><div class="twitter-follow"><a href="https://twitter.com/intent/follow?screen_name=InnoSoftDays" class="twitter-follow-button" data-size="large">Seguir a @InnoSoftDays</a></div></aside><aside id="twitter-timeline-profile-3" class="widget widget_twitter-timeline-profile clearfix"><div class="twitter-timeline-profile"><a class="twitter-timeline" data-lang="es" data-tweet-limit="2" data-chrome="noheader nofooter" href="https://twitter.com/InnoSoftDays?ref_src=twsrc%5Etfw">Tweets by InnoSoftDays</a></div></aside><aside id="custom_html-25" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title"><span>Instagram</span></h3><div class="textwidget custom-html-widget"><div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_3" style="width:100%; padding-bottom: 10px; " data-id="" data-num="6" data-res="auto" data-cols="3" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;false&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;, &quot;sbiHeaderCache&quot;: &quot;true&quot;}'><div class="sb_instagram_header" style="padding: 10px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 5px;"><div class="sb_instagram_error"><p>Por favor, introduce un token de acceso en la página de configuración del plugin Instagram Feed.</p></div></div><div id="sbi_load" class="sbi_hidden"></div></div></div></aside>
+	</div>
+	
+
+</div><!-- .inner-wrap -->
+</div><!-- #main -->
+
+
+
+
+<footer id="colophon" class="clearfix colormag-footer--classic">
+	
+<div class="footer-widgets-wrapper">
+	<div class="inner-wrap">
+		<div class="footer-widgets-area clearfix">
+         <div class="tg-footer-main-widget">
+   			<div class="tg-first-footer-widget">
+   				<aside id="text-3" class="widget widget_text clearfix"><h3 class="widget-title"><span>InnoSoft Days</span></h3>			<div class="textwidget"><div class="flex-container logo-footer">
+	<img src="/innosoft/wp-content/uploads/2018/10/logo_2_blanco-e1540218881903.png">
+	<div>
+		<p class="slogan-footer">50 años de la Ingeniería del Software</p>
+		<p class="date-footer">12, 13 y 16 de noviembre de 2018</p>
+	</div>
+</div>
+
+<i class="fa fa-location-arrow"></i> Localización
+<p>Escuela Técnica Superior de Ingeniería Informática (ETSII) -
+Av. Reina Mercedes (Sevilla)</p></div>
+		</aside><aside id="text-14" class="widget widget_text clearfix"><h3 class="widget-title"><span>Aviso legal</span></h3>			<div class="textwidget"><ul>
+<li><a href="https://institucional.us.es/innosoft/terminos-y-condiciones-de-uso">Términos y condiciones de uso</a></li>
+<li><a href="https://institucional.us.es/innosoft/politica-de-cookies">Política de cookies</a></li>
+</ul>
+</div>
+		</aside>   			</div>
+         </div>
+         <div class="tg-footer-other-widgets">
+   			<div class="tg-second-footer-widget">
+   				<aside id="custom_html-27" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title"><span>Patrocinadores</span></h3><div class="textwidget custom-html-widget"><div class="fila-patrocinadores">
+	<div class="columna-patrocinadores" id="geographica">
+		<a target="_blank" href="https://geographica.gs/es/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2017/10/Ponente_Geographica.png"></a>
+	</div>
+	<div class="columna-patrocinadores" id="bitnami">
+		<a target="_blank" href="https://bitnami.com/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2017/10/Ponente_Bitnami.jpg"></a>
+	</div>
+	<div class="columna-patrocinadores" id = "abatic">
+		<a target="_blank" href="https://www.abatic.es/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/cropped-logo_abatic-2.jpg"></a>
+	</div>
+	
+	<div class="columna-patrocinadores" id="new-language-institute">
+		<a target="_blank" href="https://www.facebook.com/NewLanguageInstitute/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/New-language.png"></a>
+	</div>
+</div> </div></aside><aside id="custom_html-31" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title"><span>Colaboradores</span></h3><div class="textwidget custom-html-widget"><div class="fila-patrocinadores">
+	<div class="columna-patrocinadores" id="us">
+		<a target="_blank" href="https://www.informatica.us.es/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/11/logo-etsii251-1.jpg" height=250px/></a>
+		<a target="_blank" href="https://www.wuolah.com/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/logo_wuolah-mas-pequeno.png"/></a>
+	</div>
+	<div class="columna-patrocinadores" id="cultura">
+		<img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/11/Logo_Cultura.jpg"/>
+	</div> 
+	<div class="columna-patrocinadores" id="gumus">
+		<a target="_blank" href="http://gumus.eii.us.es/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/11/Logo_GUMUS.jpg"/></a>
+	</div>
+	<div class="columna-patrocinadores" id="namnam">
+		<a target="_blank" href="https://www.facebook.com/pages/category/Grocery-Store/Bocateria-%C3%91an-%C3%91am-218067071589702/"><img src="https://institucional.us.es/innosoft/wp-content/uploads/2018/10/Colaborador_NamNam.jpg"/></a>
+	</div>
+</div></div></aside>   			</div>
+            <div class="tg-third-footer-widget">
+                           </div>
+            <div class="tg-fourth-footer-widget">
+                           </div>
+         </div>
+		</div>
+	</div>
+</div>	<div class="footer-socket-wrapper clearfix">
+		<div class="inner-wrap">
+			<div class="footer-socket-area">
+				<div class="footer-socket-right-section">
+									</div>
+
+				<div class="footer-socket-left-section">
+					Copyright © 2018 InnoSoft Days. Todos los derechos reservados.
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+
+</div><!-- #page -->
+<!-- HTML del pié de página -->
+<div class="cdp-cookies-alerta  cdp-solapa-ocultar cdp-cookies-textos-izq cdp-cookies-tema-gris">
+	<div class="cdp-cookies-texto">
+		<p style="font-size:12px !important;line-height:12px !important">Este sitio web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando está dando su consentimiento para la aceptación de las mencionadas cookies y la aceptación de nuestra <a href="https://institucional.us.es/innosoft/politica-de-cookies/" style="font-size:12px !important;line-height:12px !important">política de cookies</a>, pinche el enlace para mayor información.
+		<a href="javascript:;" class="cdp-cookies-boton-cerrar">ACEPTAR</a> 
+	</div>
+	<a class="cdp-cookies-solapa">Aviso de cookies</a>
+</div>
+ <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://institucional.us.es/innosoft/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/institucional.us.es\/innosoft\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.1'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/jquery.bxslider.min.js?ver=4.2.10'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/colormag-slider-setting.js?ver=4.8.7'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/navigation.js?ver=4.8.7'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/sticky/jquery.sticky.js?ver=20150309'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/sticky/sticky-setting.js?ver=20150309'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/fitvids/jquery.fitvids.js?ver=20150311'></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-content/themes/colormag/js/fitvids/fitvids-setting.js?ver=20150311'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+window.twttr=(function(w){t=w.twttr||{};t._e=[];t.ready=function(f){t._e.push(f);};return t;}(window));
+/* ]]> */
+</script>
+<script type="text/javascript" id="twitter-wjs" async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type='text/javascript' src='https://institucional.us.es/innosoft/wp-includes/js/wp-embed.min.js?ver=4.8.7'></script>
+</body>
+</html>
